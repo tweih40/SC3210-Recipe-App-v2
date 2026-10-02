@@ -1,0 +1,6 @@
+{
+  "name": "Dorm Chef - PGPR Recipe Generator",
+  "description": "Fast, minimal-equipment leftover recipe generator for PGPR dorm students using only a Yum Asia Panda mini rice cooker and a single stainless steel pan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
